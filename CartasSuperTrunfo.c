@@ -6,6 +6,7 @@
 // Siga os comentários e veja como implementei cada parte do desafio.
 // Ângelo Oliveira dos Santos - Faculdade Estacio - Curso Análise e desenvolvimento de Sistemas
 
+
 int main() {
     char estado1, estado2;  // Uma letra de 'A' a 'H' (representando um dos oito estados). Tipo: char
     char codigoCarta1[4], codigoCarta2[4]; // A letra do estado seguida de um número de 01 a 04 (ex: A01, B03). Tipo: char[] (um array de caracteres, ou string)
